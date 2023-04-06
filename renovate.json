@@ -24,7 +24,7 @@
       {
         "matchPackageNames": ["Django"],
         "allowedVersions": "=3.2"
-      },
+      }
     ],
 
   "pip_requirements": {
